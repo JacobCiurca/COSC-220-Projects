@@ -1,0 +1,4 @@
+3
+Jacob	Ciurca	3014525	4	3.8
+Jack	Hammond	3014522	4	3.75
+Kevin	Janek	3014521	4	0.5
